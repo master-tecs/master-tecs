@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me ** masterawahab@gmail.com**
 
-- ⚡ Fun fact **I love exploring new Tech and code daily.**
+- ⚡ Fun fact **I love exploring new Tech and I code daily.**
 
 ## 🚀 Languages and Tools:
 
