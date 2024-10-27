@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdul</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Nigeria.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer based in Toronto, Cananda.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -62,10 +62,6 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-<a href="https://github.com/master-tecs/github-readme-activity-graph"><img alt="Master-tecs's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=master-tecs&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
