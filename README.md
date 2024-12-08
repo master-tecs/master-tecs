@@ -12,13 +12,13 @@ You can click the Preview link to take a look at your changes.
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[M-shop](https://mshops.netlify.app/)**
+- 🔭 I’m currently working on **[Coming Soon](#)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Some of my projects are available at **[My Portfolio](https://master-tecs.netlify.app/)**
+- 👨‍💻 Some of my projects are available at **[Coming Soon](#)**
 
 - 📫 How to reach me ** masterawahab@gmail.com**
 
@@ -66,7 +66,7 @@ You can click the Preview link to take a look at your changes.
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/abdulwahab-abdurrasheed-6231341b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/abdul-wahab-abdurrasheed-6231341b9/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/master_tecs"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/master_tecs/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
