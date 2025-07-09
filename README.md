@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **[Noun AI](https://www.noun-connect.com/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **AI Usages and Prompt Eng.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
