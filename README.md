@@ -12,13 +12,13 @@ You can click the Preview link to take a look at your changes.
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Coming Soon](#)**
+- 🔭 I’m currently working on **[Noun AI](https://www.noun-connect.com/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Some of my projects are available at **[Coming Soon](#)**
+- 👨‍💻 Some of my projects are available at **[Master-tecs](https://mastertecs.vercel.app/)**
 
 - 📫 How to reach me ** masterawahab@gmail.com**
 
