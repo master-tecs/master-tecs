@@ -1,10 +1,11 @@
 <!---
 master-tecs/master-tecs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<a href="#"><img width="100%" height="auto" src="https://www.linkedin.com/in/abdul-wahab-abdurrasheed-6231341b9/overlay/background-image/" height="175px"/></a>
 --->
 
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+![linkedIn bg](https://github.com/user-attachments/assets/0adbf24e-f924-4307-b090-d466a0abbb2c)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdul</h1>
 <h3 align="center">I'm a passionate Full Stack Developer based in Toronto, Cananda.</h3>
@@ -12,17 +13,22 @@ You can click the Preview link to take a look at your changes.
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Noun AI](https://www.noun-connect.com/)**
+- 🔭 I’m currently working on **[Noun AI](https://www.noun-connect.com/)** — a next-gen product ideation tool powered by AI.
 
-- 🌱 I’m currently learning **AI Usages and Prompt Eng.**
+- 🧠 Passionate about leveraging **AI and LLMs** to create intuitive, scalable, and impactful tools for real users.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 💻 I specialize in **modern frontend development** with a strong focus on **Next.js, React, TypeScript**, and performance-first UI/UX.
 
-- 👨‍💻 Some of my projects are available at **[Master-tecs](https://mastertecs.vercel.app/)**
+- 🤝 Actively contributing to and seeking collaboration on **open-source projects**, especially those at the intersection of AI and productivity.
 
-- 📫 How to reach me ** masterawahab@gmail.com**
+- 🚀 Explore more of my work at **[Master-tecs](https://mastertecs.vercel.app/)**
 
-- ⚡ Fun fact **I love exploring new Tech and I code daily.**
+- 📬 Get in touch: **masterawahab@gmail.com**
+
+- 💼 I’m open to **full-time opportunities** — ideally roles where I can build, lead, and innovate with a forward-thinking team.
+
+- ⚡ Fun fact: I’m always experimenting with new technologies and rarely end a day without writing code.
+  
 
 ## 🚀 Languages and Tools:
 
@@ -30,10 +36,34 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/0e54d2df-8f1f-441b-8718-345b0751c32c" />
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/b3775e5a-6224-4553-b4fb-4fffc73b60f2" />
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a8631f95-b507-460c-9044-34955a991631" />
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/1be9357d-2673-439a-8747-3d52cc040b45" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img width="45" height="40" alt="image" src="https://github.com/user-attachments/assets/4137393d-df96-444b-afc6-9e3804d6673e" />
+    </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/44ee6800-5120-44ce-a423-d604e4d44db0" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img width="80" height="60" alt="image" src="https://github.com/user-attachments/assets/4f1a7ed8-cc4c-4bfe-863f-be4e4ad83ace" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+        <img width="70" height="60" alt="image" src="https://github.com/user-attachments/assets/de2a14a6-8c2e-4e01-a33d-c7f97a876581" />
+    </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
