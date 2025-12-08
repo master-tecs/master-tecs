@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
 ## ⚡️ Where to Find Me
 <p>
   
-  <a href="http://mastertecs.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/🌐%20My%20Website-0A9396?style=for-the-badge&logo=web&logoColor=white" alt="My Website" />
+  <a href="https://www.techbymaster.com/" target="_blank"><img src="https://img.shields.io/badge/🌐%20My%20Website-0A9396?style=for-the-badge&logo=web&logoColor=white" alt="My Website" />
   </a>
   <a href="https://twitter.com/master_tecs" target="_blank">
     <img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="Twitter" />
